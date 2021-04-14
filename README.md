@@ -1,6 +1,7 @@
 # Hearthstone-Hearthbuddy
-## Hearthstone 炉石传说
-## Hearthbuddy 炉石兄弟
+Hearthstone 炉石传说  
+Hearthbuddy 炉石兄弟  
+
 
 ## 存储已经无法使用的炉石兄弟
 ## Store Hearthstone Hearthbuddy that are no longer available
@@ -26,14 +27,14 @@
 
 ```
 
-## 2021年4月炉石传说退环境更新经典模式，修改了模式选择，无法继续使用旧版本
-## April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
+### 2021年4月炉石传说退环境更新经典模式，修改了模式选择，无法继续使用旧版本
+### April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
 
 ## 我要参与
-### 寻找可用的与贴吧版不一样的怒风版炉石兄弟或 卡卡版炉石兄弟（限酒馆）
-### Find available Hearthbuddy other versions 
+寻找可用的与贴吧版不一样的怒风版炉石兄弟或 卡卡版炉石兄弟（限酒馆）  
+Find available Hearthbuddy other versions  
 
-### 有没有人在咸鱼企鹅群获得一份可用版，或者更新无壳版分享出来？
-### Is anyone there get one available Hearthbuddy or update the shellless version and share it?
+有没有人在咸鱼企鹅群获得一份可用版，或者更新无壳版分享出来？  
+Is anyone there get one available Hearthbuddy or update the shellless version and share it?  
 
 有问题可以开 You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
