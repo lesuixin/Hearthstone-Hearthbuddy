@@ -9,12 +9,14 @@ Hearthbuddy 炉石兄弟
 [点我进入压缩包下载页面download](https://github.com/lesuixin/Hearthstone-Hearthbuddy/releases)
 
 
-## 可以使用的版本 can use versions --suixin
+## 不确定可以使用的版本 uncertain can use versions --suixin
 ```
 2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
 20210109折腾版，炉石兄弟贴吧，20210109 version
 20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
+
+贴吧版本被关闭，提示版本关停，不可用 tieba version closed, prompt version shutdown,unavailable
 
 多版本机器码注册机KeyGen，多版本包括折腾贴吧版，云聘版，卡卡版，怒风版 Multi-version machine code registrar  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.
