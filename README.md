@@ -14,10 +14,10 @@ Hearthbuddy 炉石兄弟
 2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
 20210109折腾版，炉石兄弟贴吧，20210109 version
-20210401折腾版，炉石兄弟贴吧，20210401 version，不需要覆盖，需要激活码 no need over and need code
+20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
 
 多版本机器码注册机KeyGen，多版本包括折腾贴吧版，云聘版，卡卡版，怒风版 Multi-version machine code registrar  
-使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.
+使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.
 
 
 在游戏之外打牌。Play card outside of the game.
@@ -26,10 +26,9 @@ Hearthbuddy 炉石兄弟
 ### 整体策略 total tactics
 ```
 策略添加，删除复制粘贴Routines文件夹
-
 插件在Plugins文件夹
 
-
+留坑待定
 ```
 
 ### 留牌策略 Reserved Cards tactics
@@ -40,13 +39,12 @@ Hearthbuddy 炉石兄弟
 
 ```
 
-## 可能的新版本 maybe new versions
+### 可能的新版本 maybe new versions
 ```
 2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated
-
 ```
 
-## 旧版本修改 old versions modify
+### 旧版本修改 old versions modify
 ```
 旧版本运行“开始”就会闪退
 总的来说有三个地方要改。
@@ -68,7 +66,7 @@ Hearthbuddy 炉石兄弟
 #### April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
 
 ## 我要参与
-有没有人在咸鱼企鹅群获得一份云聘版怒风版或卡卡版炉石兄弟分享出来？  
-Is anyone there get one available Hearthbuddy and share it?  
+有没有人在咸鱼企鹅群获得一份云聘版、怒风版或卡卡版炉石兄弟分享出来？  
+Is anyone there get one new Hearthbuddy and share it?  
 
 有问题可以开 You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
