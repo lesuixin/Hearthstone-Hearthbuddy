@@ -10,6 +10,7 @@ Hearthbuddy 炉石兄弟
 ```diff
 + 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
 使用方法：下载解压缩打开Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
+
 Instructions: Download unzip open Hearthbuddy.exe, prompt expired ,just enter q confirm, open again ,under unzip contents have HB机器码.txt open it,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify卡组名称 click start
 
 + 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
@@ -53,7 +54,7 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 ```
 
 ### 可能的新版本 maybe new versions
-2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated
+2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated  
 github搜索maxioriv，github search for maxioriv
 
 ### 旧版本修改 old versions modify
@@ -79,4 +80,4 @@ github搜索maxioriv，github search for maxioriv
 #### April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
 
 ### 参与
-有问题可以开 You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
+有问题可以开issue  You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
