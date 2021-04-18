@@ -58,10 +58,10 @@ Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEven
 
 - 我删除2021.4.1折腾版和20210401折腾版，I delete 2021.4.1 version and 20210401 version
 - 贴吧版本被关闭，提示版本关停，不可用 tieba 2021.4.1 version closed, prompt version shutdown,unavailable
-- 原本ai计算就全在本地运算，只有贴吧版的多了云端验证
+- 原本ai计算就全在本地运算，贴吧版的多了云端验证
 - 打开兄弟时会访问gitee上预留的一个json文件。共2个值，一个控制是否进入，一个控制显示公告。抓个包就能看到。
 
-- Original ai calculate locally, 2021.4.1 version use cloud verification
+- Original ai calculate locally, tieba 2021.4.1 version use cloud verification
 - When open 2021.4.1 version Hearthbuddy will check a .json file in gitee.com. Two values, one value control can or can not enter, the other control show announcement.
 ```
 
@@ -85,9 +85,9 @@ github搜索maxioriv，github search for maxioriv
 ### 旧版本 old versions
 ```
 20210109折腾版，炉石兄弟贴吧，20210109 version
-炉石兄弟修复版2020-5-17，需要输入地址对应验证
-奥秘法2020.1.17
-整合版2020.10[3.2.7601.15205]，使用策略需要码
+炉石兄弟修复版2020-5-17，需要输入地址对应验证，2020-5-17 version
+奥秘法2020.1.17，Secret Mage 2020.1.17 version
+整合版2020.10[3.2.7601.15205]，使用策略需要码，Integrated version 2020.10[3.2.7601.15205] version
 ```
 
 ### 旧版本修改建议来自别人 old versions modify suggestions from others
@@ -106,4 +106,4 @@ github搜索maxioriv，github search for maxioriv
 If have not Hearthbuddy, no plan b? Android simulator, simulate click ,Hardware macro Software macro, ahk, proxy run etc.  
 
 ### 参与
-有问题可以开issue  You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
+提交issue You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
