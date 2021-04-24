@@ -3,8 +3,10 @@ Hearthstone 炉石传说
 Hearthbuddy 炉石兄弟  
 
 ## 存储炉石兄弟 Store Hearthstone Hearthbuddy
+搜索此项目，Github搜索Hearthbuddy或者炉石兄弟  
+github search for Hearthbuddy or 炉石兄弟  
 
-[点我进入压缩包下载页面download](https://github.com/lesuixin/Hearthstone-Hearthbuddy/releases)
+[点我进入压缩包下载页面releases download](https://github.com/lesuixin/Hearthstone-Hearthbuddy/releases)
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
@@ -29,7 +31,7 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 ```
 
 ### 版本相关问题 version related questions
-```diff
+```
 怒风版3.27版改时间一样可以用，4.17新版本不能用注册机的旧码
 怒风版类似整合版，怒风版的策略不在Routines里，策略打包在程序里没法换，Silverfish\cards下没有卡牌信息，留牌策略还在
 
@@ -46,8 +48,8 @@ Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy t
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
 
-- 云聘版旧版本被要求更新，新版本不能用注册机的旧码
-- 云聘 old versions are asked for update , new version can't use KeyGen code
+云聘版旧版本要改时间，被要求更新，新版本不能用注册机的旧码
+云聘 old versions need change time, are asked for update , new version can't use KeyGen code
 ```
 
 ## 🚫不建议使用的版本 Not suggested to use versions --suixin
@@ -56,13 +58,18 @@ Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEven
 - 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
 - 20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
 
-- 我删除2021.4.1折腾版和20210401折腾版，I delete 2021.4.1 version and 20210401 version
 - 贴吧版本被关闭，提示版本关停，不可用 tieba 2021.4.1 version closed, prompt version shutdown,unavailable
 - 原本ai计算就全在本地运算，贴吧版的多了云端验证
 - 打开兄弟时会访问gitee上预留的一个json文件。共2个值，一个控制是否进入，一个控制显示公告。抓个包就能看到。
 
 - Original ai calculate locally, tieba 2021.4.1 version use cloud verification
 - When open 2021.4.1 version Hearthbuddy will check a .json file in gitee.com. Two values, one value control can or can not enter, the other control show announcement.
+
+2021-04-22 来自贴吧忽然之间 4.1折腾版绕过验证正常使用的方法 2021.4.1 version instructions
+首先要去下一个Fiddler用来调试抓包，主要用的是它一个自动响应的功能。简单点来说就把发向服务器的请求直接拦截替换成你想给的回复。
+GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{"state": "0", "tips": "版本关停"}
+从图中可以看到失败的请求，把这个请求替换成我们想要的返回内容{"state": "1", "tips": ""}
+每次用都要抓包。设置好规则保存，每次开兄弟前把抓包软件启动即可。
 ```
 
 ### 整体策略 total tactics
@@ -78,7 +85,7 @@ Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEven
 留牌策略是在Routines\DefaultRoutine\Silverfish\behavior\要调整的策略文件夹\_mulligan.txt
 ```
 
-### 可能的新版本 maybe new versions
+#### 可能的新版本 maybe new versions
 2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated  
 github搜索maxioriv，github search for maxioriv  
 
