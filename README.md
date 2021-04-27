@@ -22,8 +22,8 @@ Stormrage version prompt update, need change time to 2021-4-25
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
 Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
 
-+ 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云聘版，卡卡版，怒风版 中间上面机器码，下面激活码  
-Multi-version machine code registrar , Left option from top to bottom 折腾版，云聘版，kaka,Stormrage, Above machine code and below activation code  
++ 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
+Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 
 
@@ -71,8 +71,8 @@ Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy t
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
 
-云聘版旧版本要改时间，被要求更新，新版本能用注册机的旧码
-云聘 old versions need change time, are asked for update , new version can use KeyGen code
+云骋版旧版本要改时间，被要求更新，新版本能用注册机的旧码
+云骋版 old versions need change time, are asked for update , new version can use KeyGen code
 ```
 
 ## 🚫不建议使用的版本 Not suggested to use versions --suixin
