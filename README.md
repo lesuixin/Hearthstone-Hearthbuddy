@@ -32,9 +32,9 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 在游戏之外打牌。Play card outside of the game.
 ```
 
-### 修改时间 change time
+### 修改文件时间 change file time
 ```diff
-+ 启动器.bat starter.bat
++ 启动器.bat starter.bat 修改文件时间 change file time
 + 怒风旧版需要修改时间到2021年4月25日，注册机KeyGen修改时间到2021年4月15日
 Stormrage version need change time to 2021-4-25, KeyGen change time to 2021-4-15
 
