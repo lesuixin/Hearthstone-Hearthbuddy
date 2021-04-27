@@ -25,7 +25,7 @@ Instructions: copy machine code click transform, enter activation code, 配置-�
 + 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
-
+注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
 曾经在这游戏里互相投降就是互相胜利。Once in this game mutual surrender is mutual victory.
