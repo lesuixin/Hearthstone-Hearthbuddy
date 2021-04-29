@@ -27,6 +27,14 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
++ 折腾启动器或抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
+2021.4.1贴吧折腾启动器，可以不用每次抓包启动 2021.4.1 tieba version special starter, no need to bypass verification each time
+可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
+special starter or bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
+
+- 云骋版写着禁止传播，不提供云骋版
+- 云骋 versions write prohibit the dissemination, not provided 云骋 versions
+
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
 曾经在这游戏里互相投降就是互相胜利。Once in this game mutual surrender is mutual victory.
 在游戏之外打牌。Play card outside of the game.
@@ -37,6 +45,10 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 + 启动器.bat starter.bat 修改文件时间 change file time
 + 怒风旧版需要修改时间到2021年4月25日，注册机KeyGen修改时间到2021年4月15日
 Stormrage version need change time to 2021-4-25, KeyGen change time to 2021-4-15
+
+打开炉石传说，再打开炉石兄弟 start Hearthstone, then start Hearthbuddy
+为什么注意有没有壳和时间？ Why pay attention to shell and time?
+每次启动都显示DNGuard壳过期怎么处理？What to do ever time use hearthbuddy will prompt DNGuard Shell try out time?
 
 在文件目录下新建文件文本文档.txt，复制粘贴以下内容，改后缀.bat保存运行
 under contents new a .txt file, copy and paste, change to .bat save and run
@@ -72,14 +84,19 @@ Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy t
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
 
 云骋版旧版本要改时间，被要求更新，新版本能用注册机的旧码
-云骋版 old versions need change time, are asked for update , new version can use KeyGen code
+云骋版写着禁止传播，不提供云骋版
+
+云骋 old versions need change time, are asked for update , new version can use KeyGen code
+云骋 versions write prohibit the dissemination, not provided 云骋 versions
 ```
 
-## 🚫不建议使用的版本 Not suggested to use versions --suixin
+## 不建议但能使用的版本 Not suggested but can use versions --suixin
 ```diff
-- 2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
-- 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
-- 20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
+2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
+2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
+20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
+
+折腾启动器或抓包运行2021.4.1折腾版 special starter or bypass verification run 2021.4.1 version
 
 - 贴吧版本被关闭，提示版本关停，不可用 tieba 2021.4.1 version closed, prompt version shutdown,unavailable
 - 原本ai计算就全在本地运算，贴吧版的多了云端验证
