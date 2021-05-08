@@ -63,6 +63,10 @@ start Hearthbuddy.exe %1 %2
 ping 127.0.0.1 -n 5 >nul
 date %d%
 exit
+
+删除日志delete log.bat，文件目录下新建文件文本文档.txt复制粘贴以下内容，改后缀.bat保存运行
+del /f /s /q Logs\*.*
+del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
 ```
 
 ### 版本相关问题 version related questions
@@ -81,7 +85,10 @@ Stormrage 3.27 version basically before the rope appeared end round
 Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy time to 2021.3.27
 
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
+不出牌烧绳，不是计算时间问题，是识别不了卡牌，只有折腾版能改cards卡牌数据，只能用前几版本旧卡和怀旧卡，不要用核心卡
+
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
+Do not use card, can't recognize the card, only tieba 2021.4.1 version can change, only use old card, no use new core card
 
 云骋版旧版本要改时间，被要求更新，新版本能用注册机的旧码
 云骋版写着禁止传播，不提供云骋版
