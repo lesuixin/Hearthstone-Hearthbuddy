@@ -6,17 +6,21 @@ Hearthbuddy 炉石兄弟
 搜索此项目，Github搜索Hearthbuddy或者炉石兄弟  
 github search for Hearthbuddy or 炉石兄弟  
 
-[点我进入压缩包下载页面releases download](https://github.com/lesuixin/Hearthstone-Hearthbuddy/releases)
+[上面没有的文件去右边Releases下载页面](https://github.com/lesuixin/Hearthstone-Hearthbuddy/releases)
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
 + 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
 + 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
-第一次使用方法：下载解压缩打开Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
+第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
+再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
 怒风旧版提示下载更新，需要修改时间到2021年4月25日
+怒风版Hearthbuddy_04.11V版，解压缩后[Hearthbuddy]下是4个大文件夹共60个文件，显示Invalid key生成文件后7个大文件夹
 
-The first time instructions: Download unzip open Hearthbuddy.exe, prompt expired ,just enter q confirm, open again ,under unzip contents have HB机器码.txt open it,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify卡组名称 click start
+The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
+open again ,under unzip contents have HB机器码.txt open it,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify卡组名称 click start
 Stormrage version prompt update, need change time to 2021-4-25
+Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
 
 + 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
@@ -42,11 +46,11 @@ special starter or bypass verification run tieba 2021.4.1 version, can change ta
 
 ### 修改文件时间 change file time
 ```diff
-+ 启动器.bat starter.bat 修改文件时间 change file time
++ 启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
 + 怒风旧版需要修改时间到2021年4月25日，注册机KeyGen修改时间到2021年4月15日
 Stormrage version need change time to 2021-4-25, KeyGen change time to 2021-4-15
 
-打开炉石传说，再打开炉石兄弟 start Hearthstone, then start Hearthbuddy
+打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
 每次启动都显示DNGuard壳过期怎么处理？What to do ever time use hearthbuddy will prompt DNGuard Shell try out time?
 
