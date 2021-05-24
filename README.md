@@ -10,18 +10,6 @@ github search for Hearthbuddy or 炉石兄弟
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
-+ 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
-+ 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
-第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
-再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
-怒风旧版提示下载更新，需要修改时间到2021年4月25日
-怒风版Hearthbuddy_04.11V版，解压缩后[Hearthbuddy]下是4个大文件夹共60个文件，显示Invalid key生成文件后7个大文件夹
-
-The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
-open again ,under unzip contents have HB机器码.txt open it,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify卡组名称 click start
-Stormrage version prompt update, need change time to 2021-4-25
-Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
-
 + 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
 Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
@@ -31,8 +19,8 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
-+ 折腾启动器或抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
-2021.4.1贴吧折腾启动器，可以不用每次抓包启动 2021.4.1 tieba version special starter, no need to bypass verification each time
++ 抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
+- 2021.4.1贴吧折腾启动器失效, 2021.4.1 tieba version special starter invalidation
 可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
 special starter or bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
 
@@ -44,11 +32,29 @@ special starter or bypass verification run tieba 2021.4.1 version, can change ta
 在游戏之外打牌。Play card outside of the game.
 ```
 
+## 🚫失效的版本 invalid versions
+```diff
+- 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
+- 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
+- 怒风旧版失效 Stormrage version invalidation can not use
+
+第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
+再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
+怒风旧版提示下载更新，需要修改时间到2021年4月25日
+怒风版Hearthbuddy_04.11V版，解压缩后[Hearthbuddy]下是4个大文件夹共60个文件，显示Invalid key生成文件后7个大文件夹
+
+The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
+open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
+Stormrage version prompt update, need change time to 2021-4-25
+Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
+
+```
+
 ### 修改文件时间 change file time
 ```diff
 + 启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
-+ 怒风旧版需要修改时间到2021年4月25日，注册机KeyGen修改时间到2021年4月15日
-Stormrage version need change time to 2021-4-25, KeyGen change time to 2021-4-15
++ 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
+怒风旧版需要修改时间到2021年4月25日， Stormrage version need change time to 2021-4-25
 
 打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
@@ -75,10 +81,10 @@ del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
 
 ### 版本相关问题 version related questions
 ```
-怒风版3.27版改时间一样可以用，4.17新版本不能用注册机的旧码
+怒风版3.27版失效，4.17新版本不能用注册机的旧码
 怒风版类似整合版，怒风版的策略不在Routines里，策略打包在程序里没法换，Silverfish\cards下没有卡牌信息，留牌策略还在
 
-Stormrage 3.27 version change time can use , new 4.17 version can't use KeyGen code
+Stormrage 3.27 version change invalid, new 4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
 
 来自ptoken
@@ -107,7 +113,7 @@ Do not use card, can't recognize the card, only tieba 2021.4.1 version can chang
 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
 20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
 
-折腾启动器或抓包运行2021.4.1折腾版 special starter or bypass verification run 2021.4.1 version
+抓包运行2021.4.1折腾版 bypass verification run 2021.4.1 version
 
 - 贴吧版本被关闭，提示版本关停，不可用 tieba 2021.4.1 version closed, prompt version shutdown,unavailable
 - 原本ai计算就全在本地运算，贴吧版的多了云端验证
@@ -132,6 +138,8 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 小小不哭的故事的2020.12.18 Routines旧
 2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
 
+磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine
+
 留牌策略 Reserved Cards tactics
 留牌策略是在Routines\DefaultRoutine\Silverfish\behavior\要调整的策略文件夹\_mulligan.txt
 ```
@@ -146,6 +154,9 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 可能的新版本 maybe new versions
 2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated
 github搜索maxioriv，github search for maxioriv
+
+2021年4月炉石传说退环境更新经典模式，修改了模式选择，无法继续使用旧版本
+April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
 ```
 
 ### 旧版本修改建议来自别人 old versions modify suggestions from others
@@ -154,8 +165,6 @@ github搜索maxioriv，github search for maxioriv
 二是游戏模式定义，以前也是一个bool值表示是否为狂野，另外还有一个bool值表示是否为休闲模式。现在同样改成了一个枚举值，有经典 狂野 标准 休闲四个值。  
 三是卡牌信息对应的EntityBase类里有个GetSpellPower的函数没了，因为现在的法术强度有了不同属性，所以获取法术强度的函数也做了相应的变更  
 
-#### 2021年4月炉石传说退环境更新经典模式，修改了模式选择，无法继续使用旧版本
-#### April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
 
 ### 其它方法 Other methods
 如果没有炉石兄弟，没有备用办法？安卓模拟器，模拟点击，硬件宏软件宏，ahk，代挂等等  
