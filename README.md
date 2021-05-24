@@ -48,6 +48,8 @@ open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy
 Stormrage version prompt update, need change time to 2021-4-25
 Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
 
+贴吧折腾启动器补丁失效，因为三叶草拉闸了，以后基本都不能用
+tieba version special starter invalidation, basically cannot be used in the future
 ```
 
 ### 修改文件时间 change file time
@@ -84,7 +86,7 @@ del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
 怒风版3.27版失效，4.17新版本不能用注册机的旧码
 怒风版类似整合版，怒风版的策略不在Routines里，策略打包在程序里没法换，Silverfish\cards下没有卡牌信息，留牌策略还在
 
-Stormrage 3.27 version change invalid, new 4.17 version can't use KeyGen code
+Stormrage 3.27 version invalid, new 4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
 
 来自ptoken
