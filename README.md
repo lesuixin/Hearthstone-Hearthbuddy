@@ -14,6 +14,14 @@ github search for Hearthbuddy or 炉石兄弟
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
 Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
 
++ 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
+TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
+去策略版no Routine删除TryStudy\Routines\DefaultRoutine，用Routines\update.bat配合Git更新
+
+策略是磁石战士的
+这是用max发的无壳版修复的，yl发的无壳bug太多了
+repair maxioriv No DNGuard Shell version
+
 + 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
@@ -56,7 +64,6 @@ tieba version special starter invalidation, basically cannot be used in the futu
 ```diff
 + 启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
 + 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
-怒风旧版需要修改时间到2021年4月25日， Stormrage version need change time to 2021-4-25
 
 打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
