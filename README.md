@@ -17,6 +17,8 @@ Instructions: copy machine code click transform, enter activation code, 配置-�
 + 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
 去策略版no Routine删除TryStudy\Routines\DefaultRoutine，用Routines\update.bat配合Git更新
+TS_5.27
+https://trystudy.lanzoui.com/iKbVppizguj
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
