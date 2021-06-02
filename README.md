@@ -17,17 +17,24 @@ Instructions: copy machine code click transform, enter activation code, 配置-�
 + 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
 去策略版no Routine删除TryStudy\Routines\DefaultRoutine，用Routines\update.bat配合Git更新
+
 TS_5.27  https://trystudy.lanzoui.com/iKbVppizguj
-TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始
-https://trystudy.lanzoui.com/iijmApkj8cj
+TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始 https://trystudy.lanzoui.com/iijmApkj8cj
 TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
-1.添加了暴怒
-2.添加了十职业统计插件
-3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
+1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
+TS正式版v1.2
+1.修复恶魔猎手识别2.统计插件添加排位环境统计
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
 repair maxioriv No DNGuard Shell version
+
+HB无壳 No Shell
+弱颜X 孤独念旧人的TryStudy HB无壳（基于maxiori）
+弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
+1.基于YL提供版本修改，已修复大问题，还有很多小问题
+2.基于max提供版本修改，已修复大问题，还有部分小问题
+网站trystudy.top
 
 + 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
