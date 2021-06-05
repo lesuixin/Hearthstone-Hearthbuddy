@@ -22,8 +22,12 @@ TS_5.27  https://trystudy.lanzoui.com/iKbVppizguj
 TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始 https://trystudy.lanzoui.com/iijmApkj8cj
 TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
 1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
-TS正式版v1.2
-1.修复恶魔猎手识别2.统计插件添加排位环境统计
+TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
+上述失效
+
+TS正式版 v1.4 https://trystudy.lanzoui.com/iuwIqpsn56h 提取码：TS
+1.添加保持天梯段位（即赢一把后秒投）
+2.完美修复今日更新
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
@@ -34,6 +38,8 @@ HB无壳 No Shell
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
+游戏更新失效
+这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
 网站trystudy.top
 
 + 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
@@ -41,10 +47,10 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
-+ 抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
+抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
 - 2021.4.1贴吧折腾启动器失效, 2021.4.1 tieba version special starter invalidation
 可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
-special starter or bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
+bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
 
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
@@ -130,7 +136,7 @@ Do not use card, can't recognize the card, only tieba 2021.4.1 version can chang
 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 ```
 
-## 不建议但能使用的版本 Not suggested but can use versions --suixin
+## 不建议使用的版本 Not suggested to use versions --suixin
 ```diff
 2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
 2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
