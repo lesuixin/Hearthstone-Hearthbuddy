@@ -26,8 +26,9 @@ TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统�
 上述失效
 
 TS正式版 v1.4 https://trystudy.lanzoui.com/iuwIqpsn56h 提取码：TS
-1.添加保持天梯段位（即赢一把后秒投）
-2.完美修复今日更新
+1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新
+TS正式版 v1.5 https://trystudy.lanzoui.com/ic8txqa4bcd 提取码：TS
+1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
@@ -38,19 +39,14 @@ HB无壳 No Shell
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
-游戏更新失效
+游戏更新失效，参考2021年6月更新修复方法.jpg
 这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
 网站trystudy.top
 
-+ 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
+多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
-
-抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
-- 2021.4.1贴吧折腾启动器失效, 2021.4.1 tieba version special starter invalidation
-可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
-bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
 
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
@@ -62,6 +58,15 @@ bypass verification run tieba 2021.4.1 version, can change tactics and need chan
 
 ## 🚫失效的版本 invalid versions
 ```diff
+- 抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
+- 游戏更新折腾版失效, tieba version invalidation after update game
+可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
+bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
+
+- 贴吧折腾启动器补丁失效，因为三叶草拉闸了，以后基本都不能用
+tieba version special starter invalidation, basically cannot be used in the future
+
+
 - 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
 - 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
 - 怒风旧版失效 Stormrage version invalidation can not use
@@ -117,10 +122,7 @@ Stormrage 3.27 version invalid, new 4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
 
 来自ptoken
-怒风3.27版本的基本可以在绳子出现前结束回合 
 怒风3.27版，打开后会有一个弹窗，目前来看改时间需要到3.27比较合适，但是还是会出现一个无伤大雅的弹窗，使用火绒或者其他弹窗拦截软件标记两次就可以了。
-
-Stormrage 3.27 version basically before the rope appeared end round
 Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy time to 2021.3.27
 
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
@@ -129,10 +131,10 @@ Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy t
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
 Do not use card, can't recognize the card, only tieba 2021.4.1 version can change, only use old card, no use new core card
 
-云骋版旧版本要改时间，被要求更新，新版本能用注册机的旧码
+云骋版旧版本要改时间，被要求更新
 云骋版写着禁止传播，不提供云骋版
 
-云骋 old versions need change time, are asked for update , new version can use KeyGen code
+云骋 old versions need change time, are asked for update
 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 ```
 
