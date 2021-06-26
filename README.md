@@ -25,10 +25,11 @@ TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
 上述失效
 
-TS正式版 v1.4 https://trystudy.lanzoui.com/iuwIqpsn56h 提取码：TS
-1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新
-TS正式版 v1.5 https://trystudy.lanzoui.com/ic8txqa4bcd 提取码：TS
-1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误
+TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新
+TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误
+TS正式版 v1.6
+
+网站关闭，不再更新 Website closed, Do not update again
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
@@ -41,15 +42,13 @@ HB无壳 No Shell
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 游戏更新失效，参考2021年6月更新修复方法.jpg
 这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
-网站trystudy.top
+网站trystudy.top，网站关闭，不再更新 Website closed, Do not update again
 
 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
-- 云骋版写着禁止传播，不提供云骋版
-- 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
 曾经在这游戏里互相投降就是互相胜利。Once in this game mutual surrender is mutual victory.
@@ -66,6 +65,8 @@ bypass verification run tieba 2021.4.1 version, can change tactics and need chan
 - 贴吧折腾启动器补丁失效，因为三叶草拉闸了，以后基本都不能用
 tieba version special starter invalidation, basically cannot be used in the future
 
+- 云骋版写着禁止传播，不提供云骋版
+- 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 
 - 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
 - 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
@@ -188,14 +189,13 @@ github搜索maxioriv，github search for maxioriv
 
 2021年4月炉石传说退环境更新经典模式，修改了模式选择，无法继续使用旧版本
 April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longer available old versions
+
+旧版本修改建议来自别人 old versions modify suggestions from others
+旧版本运行“开始”就会闪退，总的来说有三个地方要改。
+一是卡组的信息，原来有个isWild字段表示卡组是否为狂野卡组，现在改成了一个枚举类型，有经典 狂野 标准三种值
+二是游戏模式定义，以前也是一个bool值表示是否为狂野，另外还有一个bool值表示是否为休闲模式。现在同样改成了一个枚举值，有经典 狂野 标准 休闲四个值。
+三是卡牌信息对应的EntityBase类里有个GetSpellPower的函数没了，因为现在的法术强度有了不同属性，所以获取法术强度的函数也做了相应的变更
 ```
-
-### 旧版本修改建议来自别人 old versions modify suggestions from others
-旧版本运行“开始”就会闪退，总的来说有三个地方要改。  
-一是卡组的信息，原来有个isWild字段表示卡组是否为狂野卡组，现在改成了一个枚举类型，有经典 狂野 标准三种值  
-二是游戏模式定义，以前也是一个bool值表示是否为狂野，另外还有一个bool值表示是否为休闲模式。现在同样改成了一个枚举值，有经典 狂野 标准 休闲四个值。  
-三是卡牌信息对应的EntityBase类里有个GetSpellPower的函数没了，因为现在的法术强度有了不同属性，所以获取法术强度的函数也做了相应的变更  
-
 
 ### 其它方法 Other methods
 如果没有炉石兄弟，没有备用办法？安卓模拟器，模拟点击，硬件宏软件宏，ahk，代挂等等  
