@@ -25,9 +25,12 @@ TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
 上述失效
 
-TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新
-TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误
-TS正式版 v1.6
+TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新 6-5
+TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 6-20
+TS正式版 v1.6 TS.v1.6  6-27
+
+2021.8 “暴风城下的集结”，尝试学习版 TS v1.6可以使用，但策略里没有新英雄皮肤
+2021.8 "United in Stormwind!" TryStudy v1.6 can use, but Routine have not new Sim_HERO
 
 网站关闭，不再更新 Website closed, Do not update again
 
