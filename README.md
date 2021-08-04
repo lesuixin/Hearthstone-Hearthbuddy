@@ -10,7 +10,7 @@ github search for Hearthbuddy or 炉石兄弟
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
-+ 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
+卡卡版HB限酒馆战旗，kaka version only Tavern Chess
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
 Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
 
@@ -75,24 +75,22 @@ tieba version special starter invalidation, basically cannot be used in the futu
 - 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
 - 怒风旧版失效 Stormrage version invalidation can not use
 
-第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
+怒风版第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
 再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
 怒风旧版提示下载更新，需要修改时间到2021年4月25日
 怒风版Hearthbuddy_04.11V版，解压缩后[Hearthbuddy]下是4个大文件夹共60个文件，显示Invalid key生成文件后7个大文件夹
 
-The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
+Stormrage Hearthbuddy The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
 open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
 Stormrage version prompt update, need change time to 2021-4-25
 Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
 
-贴吧折腾启动器补丁失效，因为三叶草拉闸了，以后基本都不能用
-tieba version special starter invalidation, basically cannot be used in the future
 ```
 
 ### 修改文件时间 change file time
 ```diff
 + 启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
-+ 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
+注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
 打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
@@ -165,7 +163,7 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 ```
 
 ### 整体策略 total tactics
-```
+```diff
 策略添加，删除复制粘贴Routines文件夹 copy and paste Routines
 插件在Plugins文件夹
 
@@ -173,7 +171,7 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 小小不哭的故事的2020.12.18 Routines旧
 2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
 
-磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine
++ 磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine
 
 留牌策略 Reserved Cards tactics
 留牌策略是在Routines\DefaultRoutine\Silverfish\behavior\要调整的策略文件夹\_mulligan.txt
