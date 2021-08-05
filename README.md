@@ -29,8 +29,8 @@ TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美�
 TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 6-20
 TS正式版 v1.6 TS.v1.6  6-27
 
-2021.8 “暴风城下的集结”，尝试学习版 TS v1.6可以使用，但策略里没有新英雄皮肤
-2021.8 "United in Stormwind!" TryStudy v1.6 can use, but Routine have not new Sim_HERO
+2021.8 “暴风城下的集结”，尝试学习版 TS v1.6可以使用
+2021.8 "United in Stormwind!" TryStudy v1.6 can use
 
 网站关闭，不再更新 Website closed, Do not update again
 
