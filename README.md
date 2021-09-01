@@ -25,6 +25,7 @@ TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美�
 TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 6-20
 TS正式版 v1.6 TS.v1.6  6-27
 TS正式版 v1.7 TS.v1.7  9-1
+用TS.v1.7里◆TS正式版 .exe DONOTDELETE.bin 替换TS.1.6
 
 2021.9 “暴风城下的集结”，尝试学习版 TS v1.7可以使用
 2021.9 "United in Stormwind!" TryStudy v1.7 can use
