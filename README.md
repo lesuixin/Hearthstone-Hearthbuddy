@@ -10,10 +10,6 @@ github search for Hearthbuddy or 炉石兄弟
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
-卡卡版HB限酒馆战旗，kaka version only Tavern Chess
-使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
-Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
-
 + 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
 去策略版no Routine删除TryStudy\Routines\DefaultRoutine，用Routines\update.bat配合Git更新
@@ -28,11 +24,12 @@ TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统�
 TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新 6-5
 TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 6-20
 TS正式版 v1.6 TS.v1.6  6-27
+TS正式版 v1.7 TS.v1.7  9-1
 
-2021.8 “暴风城下的集结”，尝试学习版 TS v1.6可以使用
-2021.8 "United in Stormwind!" TryStudy v1.6 can use
+2021.9 “暴风城下的集结”，尝试学习版 TS v1.7可以使用
+2021.9 "United in Stormwind!" TryStudy v1.7 can use
 
-网站关闭，不再更新 Website closed, Do not update again
+网站可能继续更新 Website maybe update
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
@@ -45,7 +42,7 @@ HB无壳 No Shell
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 游戏更新失效，参考2021年6月更新修复方法.jpg
 这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
-网站trystudy.top，网站关闭，不再更新 Website closed, Do not update again
+网站trystudy.top，网站可能继续更新 Website maybe update
 
 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
@@ -70,6 +67,10 @@ tieba version special starter invalidation, basically cannot be used in the futu
 
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
+
+- 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
+使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
+Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
 
 - 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
 - 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
@@ -184,7 +185,6 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 奥秘法2020.1.17，Secret Mage 2020.1.17 version
 整合版2020.10[3.2.7601.15205]，使用策略需要码，Integrated version 2020.10[3.2.7601.15205] version
 
-可能的新版本 maybe new versions
 2019.8.17（无壳），来自maxiori，没有DNGuard壳 No DNGuard Shell，可以反编译，Can be decompiled 需要更新，need to be updated
 github搜索maxioriv，github search for maxioriv
 
