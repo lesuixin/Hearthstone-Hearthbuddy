@@ -12,43 +12,37 @@ github search for Hearthbuddy or 炉石兄弟
 ```diff
 + 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
-去策略版no Routine删除TryStudy\Routines\DefaultRoutine，用Routines\update.bat配合Git更新
+去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
 TS_5.27  https://trystudy.lanzoui.com/iKbVppizguj
 TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始 https://trystudy.lanzoui.com/iijmApkj8cj
 TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
 1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
-上述失效
+TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新 2021-6-5
+TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 2021-6-20
+上述失效 Above invalid
 
-TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新 6-5
-TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 6-20
-TS正式版 v1.6 TS.v1.6  6-27
-TS正式版 v1.7 TS.v1.7  9-1
+TS正式版 v1.6 TS.v1.6  2021-6-27
+TS正式版 v1.7 TS.v1.7  2021-9-1
 用TS.v1.7里◆TS正式版 .exe DONOTDELETE.bin 替换TS.1.6
 
-2021.9 “暴风城下的集结”，尝试学习版 TS v1.7可以使用
-2021.9 "United in Stormwind!" TryStudy v1.7 can use
-
-网站可能继续更新 Website maybe update
+2021.10 “暴风城下的集结”，尝试学习版 TS v1.7可以使用
+2021.10 "United in Stormwind!" TryStudy v1.7 can use
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
 repair maxioriv No DNGuard Shell version
 
-HB无壳 No Shell
+HB无壳 No Shell 2021.5 失效invalid
 弱颜X 孤独念旧人的TryStudy HB无壳（基于maxiori）
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
+
 游戏更新失效，参考2021年6月更新修复方法.jpg
 这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
 网站trystudy.top，网站可能继续更新 Website maybe update
-
-多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
-Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
-使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
-注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
@@ -56,8 +50,29 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 在游戏之外打牌。Play card outside of the game.
 ```
 
+## 游戏更新game update
+```
+2021.8 update
+2021.9 update
+看issues，look issues
+https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues
+
+2021.10 update
+游戏更新佣兵。由于我对此游戏不感兴趣，不想更新。
+game update the mercenaries. Since I am not interested in mercenaries, don't want to update.
+
+佣兵重复pve，repeat pve
+https://github.com/zhoubin-me/lushi_script
+
+```
+
 ## 🚫失效的版本 invalid versions
 ```diff
+多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
+Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
+使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
+注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
+
 - 抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
 - 游戏更新折腾版失效, tieba version invalidation after update game
 可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
@@ -96,7 +111,7 @@ Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large
 
 打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
-每次启动都显示DNGuard壳过期怎么处理？What to do ever time use hearthbuddy will prompt DNGuard Shell try out time?
+每次启动都显示DNGuard壳过期怎么处理？ What to do ever time use hearthbuddy will prompt DNGuard Shell try out time?
 
 在文件目录下新建文件文本文档.txt，复制粘贴以下内容，改后缀.bat保存运行
 under contents new a .txt file, copy and paste, change to .bat save and run
@@ -119,15 +134,11 @@ del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
 
 ### 版本相关问题 version related questions
 ```
-怒风版3.27版失效，4.17新版本不能用注册机的旧码
+怒风版2021.3.27版失效，2021.4.17新版本不能用注册机的旧码
 怒风版类似整合版，怒风版的策略不在Routines里，策略打包在程序里没法换，Silverfish\cards下没有卡牌信息，留牌策略还在
 
-Stormrage 3.27 version invalid, new 4.17 version can't use KeyGen code
+Stormrage 2021.3.27 version invalid, new 2021.4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
-
-来自ptoken
-怒风3.27版，打开后会有一个弹窗，目前来看改时间需要到3.27比较合适，但是还是会出现一个无伤大雅的弹窗，使用火绒或者其他弹窗拦截软件标记两次就可以了。
-Stormrage 3.27 version open and have a Pop-up window, change start Hearthbuddy time to 2021.3.27
 
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
 不出牌烧绳，不是计算时间问题，是识别不了卡牌，只有折腾版能改cards卡牌数据，只能用前几版本旧卡和怀旧卡，不要用核心卡
@@ -173,7 +184,13 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 小小不哭的故事的2020.12.18 Routines旧
 2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
 
-+ 磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine
+磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine 失效invalid
+由于讨论和指责，lwh删库。策略与TS.v1.7相比多了不生成日志功能。
+Because of discussion and criticism, lwh delete repository. Routine compare TS.v1.7 that add to do not generate logs.
+
+补丁patch替换
+Routines\DefaultRoutine\Silverfish\cards\
+Routines\DefaultRoutine\Silverfish\data\
 
 留牌策略 Reserved Cards tactics
 留牌策略是在Routines\DefaultRoutine\Silverfish\behavior\要调整的策略文件夹\_mulligan.txt
