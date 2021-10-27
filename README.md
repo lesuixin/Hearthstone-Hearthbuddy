@@ -12,15 +12,13 @@ github search for Hearthbuddy or 炉石兄弟
 ```diff
 + 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
-去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
-TS_5.27  https://trystudy.lanzoui.com/iKbVppizguj
-TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始 https://trystudy.lanzoui.com/iijmApkj8cj
-TS正式版v1.0  https://trystudy.lanzoui.com/iUPEopl4auf
-1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
+TS_5.27 
+TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始
+TS正式版v1.0  1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
-TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投） 2.完美修复今日更新 2021-6-5
-TS正式版 v1.5 1.更新壳的有效期 2.汉化大部分报错信息方便大家找出错误 2021-6-20
+TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投）2.完美修复今日更新 2021-6-5
+TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大家找出错误 2021-6-20
 上述失效 Above invalid
 
 TS正式版 v1.6 TS.v1.6  2021-6-27
@@ -40,6 +38,7 @@ HB无壳 No Shell 2021.5 失效invalid
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 
+无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 游戏更新失效，参考2021年6月更新修复方法.jpg
 这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
 网站trystudy.top，网站可能继续更新 Website maybe update
@@ -185,8 +184,8 @@ GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{
 2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
 
 磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine 失效invalid
-由于讨论和指责，lwh删库。策略与TS.v1.7相比多了不生成日志功能。
-Because of discussion and criticism, lwh delete repository. Routine compare TS.v1.7 that add to do not generate logs.
+由于讨论和指责，lwh删库。2021-9-13策略与TS.v1.7相比多了不生成日志功能。
+Because of discussion and criticism, lwh delete repository. 2021-9-13 Routine compare TS.v1.7 that add to do not generate logs.
 
 补丁patch替换
 Routines\DefaultRoutine\Silverfish\cards\
