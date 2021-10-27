@@ -40,7 +40,8 @@ HB无壳 No Shell 2021.5 失效invalid
 
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 游戏更新失效，参考2021年6月更新修复方法.jpg
-这次更新页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC 添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
+2021-6-5更新，页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC
+添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
 网站trystudy.top，网站可能继续更新 Website maybe update
 
 
