@@ -19,14 +19,10 @@ TS正式版v1.0  1.添加了暴怒2.添加了十职业统计插件3.修复了识
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
 TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投）2.完美修复今日更新 2021-6-5
 TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大家找出错误 2021-6-20
-上述失效 Above invalid
 
 TS正式版 v1.6 TS.v1.6  2021-6-27
 TS正式版 v1.7 TS.v1.7  2021-9-1
-用TS.v1.7里◆TS正式版 .exe DONOTDELETE.bin 替换TS.1.6
-
-2021.10 “暴风城下的集结”，尝试学习版 TS v1.7可以使用
-2021.10 "United in Stormwind!" TryStudy v1.7 can use
+上述失效 Above invalid
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
@@ -37,12 +33,12 @@ HB无壳 No Shell 2021.5 失效invalid
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
-
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
-游戏更新失效，参考2021年6月更新修复方法.jpg
-2021-6-5更新，页面状态多了几个枚举PLAY_RANKED_STANDARD PLAY_RANKED_WILD PLAY_RANKED_CLASSIC PLAY_CASUAL_STANDARD PLAY_CASUAL_WILD PLAY_CASUAL_CLASSIC
-添加对应枚举，然后让页面状态正确跳转相应方法就可以了。修改完了就可以。
-网站trystudy.top，网站可能继续更新 Website maybe update
+
+网站trystudy.top，网站不更新 Website do not update
+
+2021.11 “暴风城下的集结”，迷你系列“死亡矿井”
+2021.11 "United in Stormwind!" , Mini-Set "Deadmine"
 
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
@@ -50,8 +46,17 @@ HB无壳 No Shell 2021.5 失效invalid
 在游戏之外打牌。Play card outside of the game.
 ```
 
-## 游戏更新game update
+## 游戏更新game update --suixin
 ```
+- YL给力啊
+https://www.cnblogs.com/varc/category/1914917.html
+炉石兄弟更新修复记录（至2020年11月） - YL给力啊
+https://www.cnblogs.com/varc/p/14777947.html
+
+炉石兄弟更新修复记录（至2021年5月） - YL给力啊
+https://www.cnblogs.com/varc/p/14783265.html
+
+2021.6 update
 2021.8 update
 2021.9 update
 看issues，look issues
@@ -64,6 +69,9 @@ game update the mercenaries. Since I am not interested in mercenaries, don't wan
 佣兵重复pve，repeat pve
 https://github.com/zhoubin-me/lushi_script
 
+2021.11 update
+我获得一份压缩包，但需等等 I get one .zip, but need wait
+
 ```
 
 ## 🚫失效的版本 invalid versions
@@ -73,13 +81,9 @@ Multi-version machine code registrar , Left option from top to bottom 折腾版�
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
 注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
 
-- 抓包运行贴吧2021.4.1折腾版 2021.4.1 tieba version
-- 游戏更新折腾版失效, tieba version invalidation after update game
+- 游戏更新贴吧2021.4.1折腾版失效, tieba version invalidation after update game
 可以修改策略，需要修改策略，需要\Silverfish\cards卡牌数据来识别卡牌
-bypass verification run tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
-
-- 贴吧折腾启动器补丁失效，因为三叶草拉闸了，以后基本都不能用
-tieba version special starter invalidation, basically cannot be used in the future
+tieba 2021.4.1 version, can change tactics and need change tactics, need \Silverfish\cards identify card
 
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
@@ -141,38 +145,11 @@ Stormrage 2021.3.27 version invalid, new 2021.4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
 
 修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
-不出牌烧绳，不是计算时间问题，是识别不了卡牌，只有折腾版能改cards卡牌数据，只能用前几版本旧卡和怀旧卡，不要用核心卡
+不出牌烧绳，不是计算时间问题，是识别不了卡牌，只能用前几版本旧卡和怀旧卡，不要用核心卡
 
 Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
-Do not use card, can't recognize the card, only tieba 2021.4.1 version can change, only use old card, no use new core card
+Do not use card, can't recognize the card, only use old card, no use new core card
 
-云骋版旧版本要改时间，被要求更新
-云骋版写着禁止传播，不提供云骋版
-
-云骋 old versions need change time, are asked for update
-云骋 versions write prohibit the dissemination, not provided 云骋 versions
-```
-
-## 不建议使用的版本 Not suggested to use versions --suixin
-```diff
-2021.4.1折腾版，炉石兄弟贴吧，需要激活码 2021.4.1 version Use machine code
-2021.4.1折腾版需要覆盖20210109折腾版，need use 2021.4.1 version over 20210109 version
-20210401折腾版，炉石兄弟贴吧，20210401 version，相当于完整2021.4.1折腾版，不需要覆盖，需要激活码 like complete 2021.4.1 version, no need over and use machine code
-
-抓包运行2021.4.1折腾版 bypass verification run 2021.4.1 version
-
-- 贴吧版本被关闭，提示版本关停，不可用 tieba 2021.4.1 version closed, prompt version shutdown,unavailable
-- 原本ai计算就全在本地运算，贴吧版的多了云端验证
-- 打开兄弟时会访问gitee上预留的一个json文件。共2个值，一个控制是否进入，一个控制显示公告。抓个包就能看到。
-
-- Original ai calculate locally, tieba 2021.4.1 version use cloud verification
-- When open 2021.4.1 version Hearthbuddy will check a .json file in gitee.com. Two values, one value control can or can not enter, the other control show announcement.
-
-2021-04-22 来自贴吧忽然之间 4.1折腾版绕过验证正常使用的方法 2021.4.1 version instructions
-首先要去下一个Fiddler用来调试抓包，主要用的是它一个自动响应的功能。简单点来说就把发向服务器的请求直接拦截替换成你想给的回复。
-GET https://gitee.com/yl-hb/check_hb/raw/master/%2020210401check.json 内容是{"state": "0", "tips": "版本关停"}
-从图中可以看到失败的请求，把这个请求替换成我们想要的返回内容{"state": "1", "tips": ""}
-每次用都要抓包。设置好规则保存，每次开兄弟前把抓包软件启动即可。
 ```
 
 ### 整体策略 total tactics
