@@ -37,6 +37,14 @@ HB无壳 No Shell 2021.5 失效invalid
 
 网站trystudy.top，网站不更新 Website do not update
 
++ bald9的2.2版
+bald9的关于2021/9/1兄弟无法使用的修复方法
+因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
+程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
+策略Routines: 磁石战士lwh 2021-9-13策略Routines + 自动识别新皮肤 auto distinguish new skins ,需要替换组合 need replace with
+还缺迷你系列35 Mini-Set新卡说明CardDefs.xml +35 card sim
+
+
 2021.11 “暴风城下的集结”，迷你系列“死亡矿井”
 2021.11 "United in Stormwind!" , Mini-Set "Deadmine"
 
@@ -46,7 +54,7 @@ HB无壳 No Shell 2021.5 失效invalid
 在游戏之外打牌。Play card outside of the game.
 ```
 
-## 游戏更新game update --suixin
+## 游戏更新 game update --suixin
 ```
 - YL给力啊
 https://www.cnblogs.com/varc/category/1914917.html
@@ -70,7 +78,26 @@ game update the mercenaries. Since I am not interested in mercenaries, don't wan
 https://github.com/zhoubin-me/lushi_script
 
 2021.11 update
-我获得一份压缩包，但需等等 I get one .zip, but need wait
+TS版没更新，bald9的2.2版
+还缺策略里的 迷你系列35 Mini-Set新卡说明CardDefs.xml +35 card sim
+
+自动识别新皮肤 auto distinguish new skins
+修改change  Routines\DefaultRoutine\silverfish_HB.cs
+silverfish_HB里面找this.heroname和this.enemyHeroname替换我发那两句。
+原本的两句 original two sentences
+if (controller == ownController) {
+this.heroname = Hrtprozis.Instance.heroIDtoName(cardId);
+else if (controller == enemyController) {
+this.enemyHeroname = Hrtprozis.Instance.heroIDtoName(cardId);
+
+替换为 replace with
+this.heroname = GameState.Get().GetFriendlySidePlayer().GetHero().GetClass().ToString().ToLower();
+this.enemyHeroname = GameState.Get().GetOpposingSidePlayer().GetHero().GetClass().ToString().ToLower();
+
+修改后运行，日志会显示 after replace, UltimateLogs show
+异常，不认识敌方英雄:None
+recalc-check###########
+然后就行了， then it is ok
 
 ```
 
@@ -88,24 +115,11 @@ tieba 2021.4.1 version, can change tactics and need change tactics, need \Silver
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 
-- 卡卡版HB限酒馆战旗，kaka version only Tavern Chess
+- 卡卡版HB限酒馆战旗，kaka version only Battlegrounds
 使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
-Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Tavern Chess mode, click 开始
+Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Battlegrounds mode, click 开始
 
-- 怒风3.27版Hearthbuddy，Stormrage 3.27 Hearthbuddy version
-- 怒风版Hearthbuddy_04.11V版，Stormrage Hearthbuddy_04.11V version
 - 怒风旧版失效 Stormrage version invalidation can not use
-
-怒风版第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
-再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
-怒风旧版提示下载更新，需要修改时间到2021年4月25日
-怒风版Hearthbuddy_04.11V版，解压缩后[Hearthbuddy]下是4个大文件夹共60个文件，显示Invalid key生成文件后7个大文件夹
-
-Stormrage Hearthbuddy The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
-open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
-Stormrage version prompt update, need change time to 2021-4-25
-Stormrage Hearthbuddy_04.11V version, under unzip [Hearthbuddy] contents 4 large folder total 60 file, show Invalid key generate file 7 large folder
-
 ```
 
 ### 修改文件时间 change file time
@@ -144,10 +158,16 @@ del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
 Stormrage 2021.3.27 version invalid, new 2021.4.17 version can't use KeyGen code
 Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
 
-修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到30或以下
+怒风版第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
+再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
+
+Stormrage Hearthbuddy The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
+open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
+
+修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到40或以下
 不出牌烧绳，不是计算时间问题，是识别不了卡牌，只能用前几版本旧卡和怀旧卡，不要用核心卡
 
-Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 30
+Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 40
 Do not use card, can't recognize the card, only use old card, no use new core card
 
 ```
