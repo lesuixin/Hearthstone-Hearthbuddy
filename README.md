@@ -10,7 +10,7 @@ github search for Hearthbuddy or 炉石兄弟
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
-+ 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
+弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
 
 TS_5.27 
@@ -19,7 +19,6 @@ TS正式版v1.0  1.添加了暴怒2.添加了十职业统计插件3.修复了识
 TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
 TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投）2.完美修复今日更新 2021-6-5
 TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大家找出错误 2021-6-20
-
 TS正式版 v1.6 TS.v1.6  2021-6-27
 TS正式版 v1.7 TS.v1.7  2021-9-1
 上述失效 Above invalid
@@ -28,21 +27,24 @@ TS正式版 v1.7 TS.v1.7  2021-9-1
 这是用max发的无壳版修复的，yl发的无壳bug太多了
 repair maxioriv No DNGuard Shell version
 
-HB无壳 No Shell 2021.5 失效invalid
+孤独念旧人 表示TS不更新，不会有1.8， TS no update, no TS1.8
+
+HB无壳 No Shell 游戏更新2021.6后失效，需要修复 after 2021.6 invalidate and need repair
 弱颜X 孤独念旧人的TryStudy HB无壳（基于maxiori）
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
 1.基于YL提供版本修改，已修复大问题，还有很多小问题
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
-网站trystudy.top，网站不更新 Website do not update
-
 + bald9的2.2版
 bald9的关于2021/9/1兄弟无法使用的修复方法
 因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
 程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
 策略Routines: 磁石战士lwh 2021-9-13策略Routines + 自动识别新皮肤 auto distinguish new skins ,需要替换组合 need replace with
-还缺迷你系列35 Mini-Set新卡说明CardDefs.xml +35 card sim
+
+修改change \Settings\Default\DefaultBot.json
+"ReleaseLimit": false, //关闭最小化
+"SliderShopSpeedRatio": //滑块游戏速度 //全局动画速度
 
 
 2021.11 “暴风城下的集结”，迷你系列“死亡矿井”
@@ -65,7 +67,6 @@ https://www.cnblogs.com/varc/p/14777947.html
 https://www.cnblogs.com/varc/p/14783265.html
 
 2021.6 update
-2021.8 update
 2021.9 update
 看issues，look issues
 https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues
@@ -84,6 +85,7 @@ TS版没更新，bald9的2.2版
 自动识别新皮肤 auto distinguish new skins
 修改change  Routines\DefaultRoutine\silverfish_HB.cs
 silverfish_HB里面找this.heroname和this.enemyHeroname替换我发那两句。
+
 原本的两句 original two sentences
 if (controller == ownController) {
 this.heroname = Hrtprozis.Instance.heroIDtoName(cardId);
