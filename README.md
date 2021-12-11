@@ -10,25 +10,6 @@ github search for Hearthbuddy or 炉石兄弟
 
 ## ✔可以使用的版本 can use versions --suixin
 ```diff
-弱颜X 孤独念旧人的已修复兄弟 TryStudy版
-TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
-
-TS_5.27 
-TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始
-TS正式版v1.0  1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
-TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
-TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投）2.完美修复今日更新 2021-6-5
-TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大家找出错误 2021-6-20
-TS正式版 v1.6 TS.v1.6  2021-6-27
-TS正式版 v1.7 TS.v1.7  2021-9-1
-上述失效 Above invalid
-
-策略是磁石战士的
-这是用max发的无壳版修复的，yl发的无壳bug太多了
-repair maxioriv No DNGuard Shell version
-
-孤独念旧人 表示TS不更新，不会有1.8， TS no update, no TS1.8
-
 HB无壳 No Shell 游戏更新2021.6后失效，需要修复 after 2021.6 invalidate and need repair
 弱颜X 孤独念旧人的TryStudy HB无壳（基于maxiori）
 弱颜X 孤独念旧人的TryStudy HB无壳（基于YL）
@@ -47,8 +28,8 @@ bald9的关于2021/9/1兄弟无法使用的修复方法
 "SliderShopSpeedRatio": //滑块游戏速度 //全局动画速度
 
 
-2021.11 “暴风城下的集结”，迷你系列“死亡矿井”
-2021.11 "United in Stormwind!" , Mini-Set "Deadmine"
+2021.12 “奥特兰克的决裂”
+2021.12 "Fractured in Alterac Valley" 
 
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
@@ -103,8 +84,40 @@ recalc-check###########
 
 ```
 
+### suixin闲谈   follow heart chitchat
+```
+有些玩家每天玩2到3小时加完成每周任务每日任务使战斗通行证等级到200，有些玩家每天玩6到7小时加上每个任务使战斗通行证等级到300。每天玩不会觉得厌烦吗？
+Some players play 2 or 3 hours daily and complete weekly tasks or daily tasks for Battle Pass Level to 200, Some players play 6 or 7 hours daily and complete each task for Battle Pass Level to 300. Play every day that they don't feel boring?
+
+一分钟可获得6经验，一小时300到400经验，4到5个小时获得1500经验=50游戏币。有的人觉得收益高？
+Each minute can get 6 experience, each hour get 300 exp to 400 exp, 4 to 5 hours get 1500 exp =50 game currency. Someone feel get a lot?
+
+不玩佣兵3v3，不要想去玩。免费送佣兵包不需要领，领到的不需要打开，打开了只有碎片和皮肤。
+Don't play mercenaries 3v3, don't want to play. Free mercenaries card packs don't need to be claimed,  claimed card packs don't need to be open, open card packs that are fragments and skins only.
+
+削减游戏币获得，推出大量皮肤，筛选充钱用户，游戏bug过多，游戏平衡破坏，游戏热度下降。
+reduce game currency acquisition,  launch of a large number of skins, screening of chargeable users, too many game bugs, destruction of game balance, game fever is down.
+```
+
 ## 🚫失效的版本 invalid versions
 ```diff
+弱颜X 孤独念旧人的已修复兄弟 TryStudy版
+TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
+TS_5.27 
+TS_5.29 修复了任务缓存自动开启问题，导致不能正常开始
+TS正式版v1.0  1.添加了暴怒2.添加了十职业统计插件3.修复了识别不了的游戏场景，导致兄弟停止，而非游戏卡了
+TS正式版v1.2  1.修复恶魔猎手识别2.统计插件添加排位环境统计
+TS正式版 v1.4 1.添加保持天梯段位（即赢一把后秒投）2.完美修复今日更新 2021-6-5
+TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大家找出错误 2021-6-20
+TS正式版 v1.6 TS.v1.6  2021-6-27
+TS正式版 v1.7 TS.v1.7  2021-9-1
+上述失效 Above invalid
+孤独念旧人 表示TS不更新，不会有1.8， TS no update, no TS1.8
+
+策略是磁石战士的
+这是用max发的无壳版修复的，yl发的无壳bug太多了
+repair maxioriv No DNGuard Shell version
+
 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
 使用方法：使用需要码的版本，复制机器码点转换，输入激活码，确定。use need code version, copy machine code click transform, copy activation code ,sure.  
@@ -183,7 +196,7 @@ Do not use card, can't recognize the card, only use old card, no use new core ca
 小小不哭的故事的2020.12.18 Routines旧
 2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
 
-磁石战士 李文浩的策略 https://gitee.com/notnow/hearthstoneRoutine 失效invalid
+磁石战士lwh策略
 由于讨论和指责，lwh删库。2021-9-13策略与TS.v1.7相比多了不生成日志功能。
 Because of discussion and criticism, lwh delete repository. 2021-9-13 Routine compare TS.v1.7 that add to do not generate logs.
 
