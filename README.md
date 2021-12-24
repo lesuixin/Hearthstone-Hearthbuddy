@@ -17,15 +17,46 @@ HB无壳 No Shell 游戏更新2021.6后失效，需要修复 after 2021.6 invali
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
-+ bald9的2.2版
++ bald9 的 炉石兄弟发行版3.0.0 Hearthbuddy_V3.0.0
 bald9的关于2021/9/1兄弟无法使用的修复方法
-因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
-程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
-策略Routines: 磁石战士lwh 2021-9-13策略Routines + 自动识别新皮肤 auto distinguish new skins ,需要替换组合 need replace with
 
-修改change \Settings\Default\DefaultBot.json
+2021.12 hearthbuddy-bald9 Hearthbuddy_V3.0.0 发行版3.0.0
+更新内容:监控插件，统计插件修复，bot开放出来了
+
+策略Routines 附带with: 磁石战士lwh 2021-9-13策略Routines + 已使用use 自动识别新皮肤 auto distinguish new skins
+策略Routines 添加add: 2021-12-8 策略Routines AV奥特兰克的决裂, 需要替换组合 need replace with
+
+设置修改change \Settings\Default\DefaultBot.json
+"AutoGreet": false, //关闭自动打招呼
 "ReleaseLimit": false, //关闭最小化
 "SliderShopSpeedRatio": //滑块游戏速度 //全局动画速度
+修改ai计算操作间隔，修改Main.json里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到40或以下
+Change ai calculation interval, modify Main.json MsBetweenTicks to less 15, InputEventMsDelay to less 40
+
+
+感谢贴吧的 “凤凰谷黄怪”分享  thank for tieba “凤凰谷黄怪”share bald9发行版(2.3)
+二楼自取能用XD，挂经典一样能传说
+https://tieba.baidu.com/p/7663306333
+链接：https://pan.baidu.com/s/1PVvRPLgA7dl2GBnI6J5mWA
+提取码：pjbq
+不要在线解压
+
+附带策略Routines AV奥特兰克的决裂 的新卡 和CardDefs.xml
+With Routines Fractured in Alterac Valley new card and CardDefs.xml
+
+2021-12-8 策略Routines AV奥特兰克的决裂 目录说明 list instruction
+DefaultRoutine\Silverfish\data CardDefs.xml
+1578SW暴风城下的集结 的 Sim_DED 迷你系列 Mini-Set 死亡矿井 //Sim_DED_006 //* 重拳先生 Mr. Smite
+0017英雄皮肤和技能 的 Sim_HERO 新皮肤 new skins
+0018TB乱斗模式 的 Sim_PVPDR_AV_Passive
+1443SCH通灵学院 的 Sim_SCH_199t29 转校生 Transfer Student
+1525BAR贫瘠之地的锤炼 的 Sim_BAR_748 瓦尔登晨拥 vardendawngrasp
+Silverfish\ai 的 Playfield.cs //出现红字报错，注意替换 show red report error, replace
+
+
+2021.11 因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
+程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
+策略Routines: 磁石战士lwh 2021-9-13策略Routines + 自动识别新皮肤 auto distinguish new skins ,需要替换组合 need replace with
 
 
 2021.12 “奥特兰克的决裂”
@@ -61,7 +92,6 @@ https://github.com/zhoubin-me/lushi_script
 
 2021.11 update
 TS版没更新，bald9的2.2版
-还缺策略里的 迷你系列35 Mini-Set新卡说明CardDefs.xml +35 card sim
 
 自动识别新皮肤 auto distinguish new skins
 修改change  Routines\DefaultRoutine\silverfish_HB.cs
@@ -138,9 +168,8 @@ Instructions: copy machine code click transform, enter activation code, 配置-�
 ```
 
 ### 修改文件时间 change file time
-```diff
-+ 启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
-注册机KeyGen修改时间到2021年4月15日 KeyGen change time to 2021-4-15
+```
+启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
 
 打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
 为什么注意有没有壳和时间？ Why pay attention to shell and time?
@@ -179,10 +208,7 @@ Stormrage versions like integrated version, Stormrage versions tactics in .exe f
 Stormrage Hearthbuddy The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
 open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
 
-修改ai计算操作间隔，修改Main里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到40或以下
 不出牌烧绳，不是计算时间问题，是识别不了卡牌，只能用前几版本旧卡和怀旧卡，不要用核心卡
-
-Change ai calculation interval, modify Main MsBetweenTicks to less 15, InputEventMsDelay to less 40
 Do not use card, can't recognize the card, only use old card, no use new core card
 
 ```
