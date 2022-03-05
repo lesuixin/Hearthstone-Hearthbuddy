@@ -36,7 +36,6 @@ Change ai calculation interval, modify Main.json MsBetweenTicks to less 15, Inpu
 
 感谢贴吧的 “凤凰谷黄怪”分享  thank for tieba “凤凰谷黄怪”share bald9发行版(2.3)
 二楼自取能用XD，挂经典一样能传说
-https://tieba.baidu.com/p/7663306333
 链接：https://pan.baidu.com/s/1PVvRPLgA7dl2GBnI6J5mWA
 提取码：pjbq
 不要在线解压
@@ -56,8 +55,6 @@ Silverfish\ai 的 Playfield.cs //出现红字报错，注意替换 show red repo
 
 2021.11 因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
 程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
-策略Routines: 磁石战士lwh 2021-9-13策略Routines + 自动识别新皮肤 auto distinguish new skins ,需要替换组合 need replace with
-
 
 2021.12 “奥特兰克的决裂”
 2021.12 "Fractured in Alterac Valley" 
@@ -66,6 +63,37 @@ Silverfish\ai 的 Playfield.cs //出现红字报错，注意替换 show red repo
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
 曾经在这游戏里互相投降就是互相胜利。Once in this game mutual surrender is mutual victory.
 在游戏之外打牌。Play card outside of the game.
+```
+
+## 禁用游戏异常报告截图 Disabled Game Exception Reporter Screenshot --suixin
+```diff
+- 禁用游戏异常报告截图 Disabled Game Exception Reporter Screenshot
+\Hearthstone\Logs
+ExceptionReporter.log
+异常报告.log
+
+内容如下 it is
+ScreenshotPath: Screenshot.png
+Loaded exception data from ...
+User UUID: ...
+Saved exception data(Count: ) to ...
+
+找到保存的异常报告位置并删除截图 find saved data location and Delete Screenshot
+Exceptions/ExceptionReporter.json
+右键Exceptions文件夹-属性-安全-组或用户名Administrator（自己）-权限编辑-完全控制-拒绝
+right click Exceptions folder -property-safe- group or username Administrator(self) -permission editing-fully control-refusal
+
+下面的组都拒绝，SYSTEM-写入-拒绝
+below group all refusal, SYSTEM- write -refusal
+
+下次运行炉石传说，run Hearthstone, ExceptionReporter.log
+Failed to write exception data to ... Access to the path is denied
+写入异常数据到失败，访问路径被拒绝
+
+删除Delete \Hearthstone\Logs\带有时间名have time的 hearthstone_2022_03_.log
+多次查看日志文件夹，多次删除日志 check log folder repeatedly , delete log repeatedly
+
+复制这段且发送到贴吧，copy this part and send to tieba...com
 ```
 
 ## 游戏更新 game update --suixin
