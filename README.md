@@ -17,14 +17,11 @@ HB无壳 No Shell 游戏更新2021.6后失效，需要修复 after 2021.6 invali
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
-+ bald9 的 炉石兄弟发行版3.0.0 Hearthbuddy_V3.0.0
++ 琴弦上的宇宙 Hearthbuddy_V4.0.0
+Hearthbuddy_V4.0.0 删除 VC_redist.x86.exe
+仅供学习，免费使用-禁止买卖 for learning only, free to use, prohibited to buy and sell
+
 bald9的关于2021/9/1兄弟无法使用的修复方法
-
-2021.12 hearthbuddy-bald9 Hearthbuddy_V3.0.0 发行版3.0.0
-更新内容:监控插件，统计插件修复，bot开放出来了
-
-策略Routines 附带with: 磁石战士lwh 2021-9-13策略Routines + 已使用use 自动识别新皮肤 auto distinguish new skins
-策略Routines 添加add: 2021-12-8 策略Routines AV奥特兰克的决裂, 需要替换组合 need replace with
 
 设置修改change \Settings\Default\DefaultBot.json
 "AutoGreet": false, //关闭自动打招呼
@@ -34,30 +31,8 @@ bald9的关于2021/9/1兄弟无法使用的修复方法
 Change ai calculation interval, modify Main.json MsBetweenTicks to less 15, InputEventMsDelay to less 40
 
 
-感谢贴吧的 “凤凰谷黄怪”分享  thank for tieba “凤凰谷黄怪”share bald9发行版(2.3)
-二楼自取能用XD，挂经典一样能传说
-链接：https://pan.baidu.com/s/1PVvRPLgA7dl2GBnI6J5mWA
-提取码：pjbq
-不要在线解压
-
-附带策略Routines AV奥特兰克的决裂 的新卡 和CardDefs.xml
-With Routines Fractured in Alterac Valley new card and CardDefs.xml
-
-2021-12-8 策略Routines AV奥特兰克的决裂 目录说明 list instruction
-DefaultRoutine\Silverfish\data CardDefs.xml
-1578SW暴风城下的集结 的 Sim_DED 迷你系列 Mini-Set 死亡矿井 //Sim_DED_006 //* 重拳先生 Mr. Smite
-0017英雄皮肤和技能 的 Sim_HERO 新皮肤 new skins
-0018TB乱斗模式 的 Sim_PVPDR_AV_Passive
-1443SCH通灵学院 的 Sim_SCH_199t29 转校生 Transfer Student
-1525BAR贫瘠之地的锤炼 的 Sim_BAR_748 瓦尔登晨拥 vardendawngrasp
-Silverfish\ai 的 Playfield.cs //出现红字报错，注意替换 show red report error, replace
-
-
-2021.11 因为bald9觉得是小更新，只更新了hb.exe，组合成2.2版不带策略
-程序hb: hearthbuddy-bald9发行版(2.0) + 2.2版
-
-2021.12 “奥特兰克的决裂”
-2021.12 "Fractured in Alterac Valley" 
+2022.5 “探寻沉没之城”
+2022.5 "Voyage to the Sunken City" 
 
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
@@ -140,6 +115,10 @@ this.enemyHeroname = GameState.Get().GetOpposingSidePlayer().GetHero().GetClass(
 recalc-check###########
 然后就行了， then it is ok
 
+2022.5 update
+hearthbuddy-bald9 Hearthbuddy_V3.0.0 发行版3.0.0 失效 invalid
+hearthbuddy-bald9发行版(2.3) 失效 invalid
+
 ```
 
 ### suixin闲谈   follow heart chitchat
@@ -159,6 +138,27 @@ reduce game currency acquisition,  launch of a large number of skins, screening 
 
 ## 🚫失效的版本 invalid versions
 ```diff
+bald9 的 炉石兄弟发行版3.0.0 Hearthbuddy_V3.0.0
+2021.12 hearthbuddy-bald9 Hearthbuddy_V3.0.0 发行版3.0.0
+更新内容:监控插件，统计插件修复，bot开放出来了
+
+策略Routines 附带with: 磁石战士lwh 2021-9-13策略Routines + 已使用use 自动识别新皮肤 auto distinguish new skins
+策略Routines 添加add: 2021-12-8 策略Routines AV奥特兰克的决裂, 需要替换组合 need replace with
+
+感谢贴吧的 “凤凰谷黄怪”分享  thank for tieba “凤凰谷黄怪”share bald9发行版(2.3)
+附带策略Routines AV奥特兰克的决裂 的新卡 和CardDefs.xml
+With Routines Fractured in Alterac Valley new card and CardDefs.xml
+
+2021-12-8 策略Routines AV奥特兰克的决裂 目录说明 list instruction
+DefaultRoutine\Silverfish\data CardDefs.xml
+1578SW暴风城下的集结 的 Sim_DED 迷你系列 Mini-Set 死亡矿井 //Sim_DED_006 //* 重拳先生 Mr. Smite
+0017英雄皮肤和技能 的 Sim_HERO 新皮肤 new skins
+0018TB乱斗模式 的 Sim_PVPDR_AV_Passive
+1443SCH通灵学院 的 Sim_SCH_199t29 转校生 Transfer Student
+1525BAR贫瘠之地的锤炼 的 Sim_BAR_748 瓦尔登晨拥 vardendawngrasp
+Silverfish\ai 的 Playfield.cs //出现红字报错，注意替换 show red report error, replace
+
+
 弱颜X 孤独念旧人的已修复兄弟 TryStudy版
 TryStudy版删除TryStudy\Routines\DefaultRoutine\Silverfish\Test\Data\狂野奥秘法，节省空间
 TS_5.27 
@@ -170,11 +170,11 @@ TS正式版 v1.5 1.更新壳的有效期2.汉化大部分报错信息方便大�
 TS正式版 v1.6 TS.v1.6  2021-6-27
 TS正式版 v1.7 TS.v1.7  2021-9-1
 上述失效 Above invalid
-孤独念旧人 表示TS不更新，不会有1.8， TS no update, no TS1.8
 
 策略是磁石战士的
 这是用max发的无壳版修复的，yl发的无壳bug太多了
 repair maxioriv No DNGuard Shell version
+
 
 多版本机器码注册机KeyGen，左边选项从上到下折腾贴吧版，云骋版，卡卡版，怒风版 中间上面机器码，下面激活码  
 Multi-version machine code registrar , Left option from top to bottom 折腾版，云骋版，kaka,Stormrage, Above machine code and below activation code  
@@ -188,57 +188,7 @@ tieba 2021.4.1 version, can change tactics and need change tactics, need \Silver
 - 云骋版写着禁止传播，不提供云骋版
 - 云骋 versions write prohibit the dissemination, not provided 云骋 versions
 
-- 卡卡版HB限酒馆战旗，kaka version only Battlegrounds
-使用方法：复制机器码转换，输入激活码，配置-版本-游戏模式-玩家对战模式，修改游戏模式为战旗模式，点开始
-Instructions: copy machine code click transform, enter activation code, 配置-版本-游戏模式-玩家对战模式，change game mode to Battlegrounds mode, click 开始
-
 - 怒风旧版失效 Stormrage version invalidation can not use
-```
-
-### 修改文件时间 change file time
-```
-启动器.bat starter.bat 每次打开启动器.bat代替Hearthbuddy.exe each open starter.bat instead Hearthbuddy.exe
-
-打开炉石传说，再打开改时间炉石兄弟 start Hearthstone, then start change file time Hearthbuddy
-为什么注意有没有壳和时间？ Why pay attention to shell and time?
-每次启动都显示DNGuard壳过期怎么处理？ What to do ever time use hearthbuddy will prompt DNGuard Shell try out time?
-
-在文件目录下新建文件文本文档.txt，复制粘贴以下内容，改后缀.bat保存运行
-under contents new a .txt file, copy and paste, change to .bat save and run
-
-@echo off
-set d=%date%
-cd /d %~dp0
-::此处通常设置为兄弟版本后一天
-date 2021-4-25
-::此处后面注意添加%1 %2用以传递自动开始的参数
-start Hearthbuddy.exe %1 %2
-ping 127.0.0.1 -n 5 >nul
-date %d%
-exit
-
-删除日志delete log.bat，文件目录下新建文件文本文档.txt复制粘贴以下内容，改后缀.bat保存运行
-del /f /s /q Logs\*.*
-del /f /s /q Routines\DefaultRoutine\Silverfish\UltimateLogs\*.*
-```
-
-### 版本相关问题 version related questions
-```
-怒风版2021.3.27版失效，2021.4.17新版本不能用注册机的旧码
-怒风版类似整合版，怒风版的策略不在Routines里，策略打包在程序里没法换，Silverfish\cards下没有卡牌信息，留牌策略还在
-
-Stormrage 2021.3.27 version invalid, new 2021.4.17 version can't use KeyGen code
-Stormrage versions like integrated version, Stormrage versions tactics in .exe file can't change ,no card in Silverfish\cards, reserved Cards tactics exist
-
-怒风版第一次使用方法：下载解压缩打开启动器.bat代替Hearthbuddy.exe，提示长时间没用过期，随便输入q确认，显示Invalid key生成文件
-再次打开，解压缩的目录下有个HB机器码.txt文件打开，用注册机KeyGen，复制转换，输入弹出框里，DefaultBot对战模式选自动，修改卡组名称点start
-
-Stormrage Hearthbuddy The first time instructions: Download unzip open new starter.bat instead Hearthbuddy.exe, prompt expired ,just enter q confirm, show Invalid key generate file
-open again ,under unzip contents have HB机器码.txt  open it ,use KeyGen, copy machine code click transform, copy activation code , DefaultBot battle mode choose 自动, modify 卡组名称 click start
-
-不出牌烧绳，不是计算时间问题，是识别不了卡牌，只能用前几版本旧卡和怀旧卡，不要用核心卡
-Do not use card, can't recognize the card, only use old card, no use new core card
-
 ```
 
 ### 整体策略 total tactics
@@ -248,7 +198,7 @@ Do not use card, can't recognize the card, only use old card, no use new core ca
 
 小小不哭的故事的2021.1.1 Routines新
 小小不哭的故事的2020.12.18 Routines旧
-2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use unfair game and same period card, DefaultBehavior choose rush
+2021.1.1 Routines新奥秘法会用非公平游戏和同时期的卡，DefaultBehavior选rush，2021.1.1 Routines新 Secret Mage can use Rigged Faire Game and same period card, DefaultBehavior choose rush
 
 磁石战士lwh策略
 由于讨论和指责，lwh删库。2021-9-13策略与TS.v1.7相比多了不生成日志功能。
