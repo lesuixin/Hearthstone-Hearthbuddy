@@ -17,8 +17,8 @@ HB无壳 No Shell 游戏更新2021.6后失效，需要修复 after 2021.6 invali
 2.基于max提供版本修改，已修复大问题，还有部分小问题
 无壳去策略版no Routine删除TryStudy\Routines\DefaultRoutine
 
-+ 琴弦上的宇宙 Hearthbuddy_V4.0.0
-Hearthbuddy_V4.0.0 删除 VC_redist.x86.exe
++ 琴弦上的宇宙 Hearthbuddy_V5.0.1
+Hearthbuddy_V5.0.1 删除 VC_redist.x86.exe
 仅供学习，免费使用-禁止买卖 for learning only, free to use, prohibited to buy and sell
 
 bald9的关于2021/9/1兄弟无法使用的修复方法
@@ -27,12 +27,13 @@ bald9的关于2021/9/1兄弟无法使用的修复方法
 "AutoGreet": false, //关闭自动打招呼
 "ReleaseLimit": false, //关闭最小化
 "SliderShopSpeedRatio": //滑块游戏速度 //全局动画速度
+"ConstructedCustomDeck": "1",  //使用的卡组名 use Deck name
 修改ai计算操作间隔，修改Main.json里MsBetweenTicks计算间隔到15或以下，InputEventMsDelay操作间隔到40或以下
 Change ai calculation interval, modify Main.json MsBetweenTicks to less 15, InputEventMsDelay to less 40
 
 
-2022.5 “探寻沉没之城”
-2022.5 "Voyage to the Sunken City" 
+2022.6 “探寻沉没之城”+ 迷你系列 “潮汐王座”
+2022.6 "Voyage to the Sunken City" + Mini-Set “Throne of the Tides”
 
 
 不要连续使用太长时间，会被检测到，虽然通常会掉线。Don't use it for too long continuously, it will be detected, although it usually leaves game.
@@ -119,6 +120,8 @@ recalc-check###########
 hearthbuddy-bald9 Hearthbuddy_V3.0.0 发行版3.0.0 失效 invalid
 hearthbuddy-bald9发行版(2.3) 失效 invalid
 
+2022.6 update
+Hearthbuddy_V4.0.0 失效 invalid
 ```
 
 ### suixin闲谈   follow heart chitchat
@@ -148,6 +151,8 @@ bald9 的 炉石兄弟发行版3.0.0 Hearthbuddy_V3.0.0
 感谢贴吧的 “凤凰谷黄怪”分享  thank for tieba “凤凰谷黄怪”share bald9发行版(2.3)
 附带策略Routines AV奥特兰克的决裂 的新卡 和CardDefs.xml
 With Routines Fractured in Alterac Valley new card and CardDefs.xml
+
+琴弦上的宇宙 Hearthbuddy_V4.0.0
 
 2021-12-8 策略Routines AV奥特兰克的决裂 目录说明 list instruction
 DefaultRoutine\Silverfish\data CardDefs.xml
