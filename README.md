@@ -241,5 +241,9 @@ April 2021 Hearthstone: Forged in the Barrens. Modified mode selection. No longe
 如果没有炉石兄弟，没有备用办法？安卓模拟器，模拟点击，硬件宏软件宏，ahk，代挂等等  
 If have not Hearthbuddy, no plan b? Android simulator, simulate click ,Hardware macro Software macro, ahk, proxy run etc.  
 
-### 参与
-提交issue You can open [issue](https://github.com/lesuixin/Hearthstone-Hearthbuddy/issues/new)
+## 2023.1.24 End
+炉石传说中国区服务关闭。  
+Hearthstone in china Service Shutdown.  
+
+跟随你的心，相信你的感觉。每一天很平常，那一天，也平常。再见。  
+Follow your heart, trust your feelings. Every day is usually, the day, also usually. Bye Bye.  
